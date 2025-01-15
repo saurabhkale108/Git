@@ -4,8 +4,6 @@ using namespace std;
 
 int main()
 {
-   cout<<"Without + operator= "<<addwithouplus(3,5);
-   cout<<endl;
-   cout<<"Sum of N natural numbers= "<<sumOfN(5); 
+  cout<<sumOfNSq(4);
   return 0;
 }
